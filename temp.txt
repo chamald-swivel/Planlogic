@@ -1,0 +1,123 @@
+{
+    "advisorName": "Speaker 2",
+    "clientNames": "Speaker 1",
+    "meetingDate": "Not explicitly stated in transcript",
+    "meetingTime": "Not explicitly stated in transcript",
+    "meetingDurationMins": "Not explicitly stated in transcript",
+    "referralSource": "No updates for this section.",
+    "keyItemsDiscussed": "The client shared recent personal updates including multiple cruises along the east coast of Australia and to New Zealand, highlighting enjoyable experiences despite rough seas due to a cyclone. The client also discussed family activities such as spending Easter with children at their apartment in Mermaid Beach and involvement in charitable initiatives supporting young people with disabilities through a training program for baristas and waiters. The client is actively engaged in social and community activities including volunteering at a school, playing various card games, and attending lectures and talks. Political engagement was also discussed, with the client describing active participation in election campaigns and observations on political parties and candidates. The client enjoys hosting grandchildren for dinner regularly and values family time. Lifestyle activities include cooking, attending talks, and maintaining independence. The client also mentioned plans to travel back to South Africa in the future.",
+    "goalsObjectives": "The client aims to maintain a comfortable lifestyle in their current home, having already downsized and expressed no need for further changes. Travel remains a priority, with plans to continue cruising and visiting family while health permits, with an understanding that travel may reduce over time. Financially, the client requires approximately $4,000 per month to cover living expenses, with some months saving around $1,000, which funds discretionary spending such as travel. The client intends to keep living independently and actively, with future decision-making involving family members as needed, particularly regarding aged care and estate planning. The client values family involvement and plans to engage children in future financial and care decisions.",
+    "currentAssets": [
+        {
+            "asset": "Primary residence",
+            "ownership": "Sole",
+            "value": "$1,410,000",
+            "liability": "$0",
+            "net_value": "$1,410,000"
+        },
+        {
+            "asset": "Investment account (BT Panorama)",
+            "ownership": "Sole",
+            "value": "$3,500",
+            "liability": "$0",
+            "net_value": "$3,500"
+        },
+        {
+            "asset": "Cash at bank",
+            "ownership": "Sole",
+            "value": "$1,000+",
+            "liability": "$0",
+            "net_value": "$1,000+"
+        },
+        {
+            "asset": "Vehicle (Mazda 3)",
+            "ownership": "Sole",
+            "value": "$10,000",
+            "liability": "$0",
+            "net_value": "$10,000"
+        },
+        {
+            "asset": "Contents (for Centrelink)",
+            "ownership": "Sole",
+            "value": "$5,000",
+            "liability": "$0",
+            "net_value": "$5,000"
+        }
+    ],
+    "cashflow": "The client’s income primarily consists of the Age Pension, approximately $945 per fortnight, and pension drawdowns of around $4,000 per month. Some months result in savings of about $1,000, which are used to fund travel and discretionary spending. The client lives comfortably without restricting spending and receives additional financial support from a son-in-law who nets commissions to the client.",
+    "debtManagement": "The client has no debts or loans; they are debt-free.",
+    "investment": "The client has an investment account with BT Panorama valued at approximately $3,500, which is planned to be closed with funds transferred to a cash account. The client’s portfolio is managed with a dimensional portfolio approach, showing an 8.47% return over the last 12 months, outperforming the Morningstar Moderate Index by 0.81%.",
+    "superannuation": "The client’s superannuation or pension account has performed well, with an 8.47% return over the last 12 months, exceeding the Morningstar Moderate Index return of 7.67%.",
+    "retirementPlanning": "The retirement strategy focuses on sustaining current lifestyle and income needs through pension and superannuation drawdowns, with projections indicating a potential shortfall starting around age 94 if current spending continues. The client has significant equity in their property, which provides financial security for future aged care needs or other expenses. Family involvement is planned for future decision-making, including powers of attorney and estate discussions. The client intends to continue enjoying life and travel while health permits, with adjustments expected as needs change.",
+    "insurance": "No updates for this section.",
+    "estatePlanning": "The client has an enduring power of attorney appointed to three children, with all money left equally to them as executors. The client holds a hard copy of the will and power of attorney documents. The estate plan is straightforward, with no provisions for grandchildren, allowing parents to manage their children’s inheritance. The client values transparency and family involvement in estate matters.",
+    "centrelink": "The client receives the Age Pension, approximately $945 per fortnight, and maintains contents valued at $5,000 for Centrelink reporting. The client’s assets and income are managed to comply with Centrelink requirements.",
+    "ageCare": "The client acknowledges the possibility of future aged care needs and has sufficient property equity to cover deposits for aged care facilities. Family involvement will assist with decisions when the time comes.",
+    "initialSoaFee": "No updates for this section.",
+    "ongoingAdviceFee": "No updates for this section.",
+    "riskProfileVariant": "fact_find_completed",
+    "riskApproach": "Balanced",
+    "understandingOfAdvice": "The client understands the advice provided, agrees with the next steps including closing the investment account and transferring funds, and acknowledges the importance of ongoing family involvement in future financial and care decisions. The client is comfortable with the current financial plan and lifestyle arrangements."
+}
+
+{
+    "advisorName": "Speaker 2",
+    "clientNames": "Speaker 1",
+    "meetingDate": "Not explicitly stated in transcript",
+    "meetingTime": "Not explicitly stated in transcript",
+    "meetingDurationMins": "Not explicitly stated in transcript",
+    "referralSource": "No updates for this section.",
+    "keyItemsDiscussed": "The client shared recent personal updates including multiple cruises along the east coast of Australia and to New Zealand, highlighting enjoyable experiences despite some rough seas due to a cyclone. The client also discussed family activities such as spending Easter with children at their apartment in Mermaid Beach and hosting grandchildren regularly for dinner. There was mention of a charitable initiative by the son-in-law involving training young people with disabilities for employment, supported by NDIS and financed by family. The client is actively engaged in community volunteering, including reading with children at school and political involvement during recent elections. Hobbies include playing various card games and attending lectures. The client values independence and social connections, maintaining a busy lifestyle with family and friends. Political views and experiences with local elections were also discussed, reflecting the client's engagement and opinions on the political landscape.",
+    "goalsObjectives": "The client aims to maintain a comfortable lifestyle in their current home, having already downsized and expressing no need for further changes. Travel remains a priority, with plans to continue cruising and visiting family while health permits, acknowledging that travel may reduce over time due to health considerations. Financially, the client requires approximately $4,000 per month to cover living expenses, with some months resulting in savings of around $1,000, which funds discretionary spending such as travel. There is an intention to involve children in future decision-making, particularly regarding aged care and estate matters, ensuring family is informed and prepared. The client values independence and wishes to sustain their current lifestyle and social activities for as long as possible.",
+    "currentAssets": [
+        {
+            "asset": "Primary residence",
+            "ownership": "Sole",
+            "value": "$1,410,000",
+            "liability": "$0",
+            "net_value": "$1,410,000"
+        },
+        {
+            "asset": "Investment account (BT Panorama)",
+            "ownership": "Sole",
+            "value": "$3,500",
+            "liability": "$0",
+            "net_value": "$3,500"
+        },
+        {
+            "asset": "Cash at bank",
+            "ownership": "Sole",
+            "value": "$1,000+",
+            "liability": "$0",
+            "net_value": "$1,000+"
+        },
+        {
+            "asset": "Vehicle (Mazda 3)",
+            "ownership": "Sole",
+            "value": "$10,000",
+            "liability": "$0",
+            "net_value": "$10,000"
+        },
+        {
+            "asset": "Contents (for Centrelink)",
+            "ownership": "Sole",
+            "value": "$5,000",
+            "liability": "$0",
+            "net_value": "$5,000"
+        }
+    ],
+    "cashflow": "The client’s income primarily consists of the Age Pension, approximately $945 per fortnight, and pension drawdowns totaling around $4,000 per month. The client reports living comfortably on this income, with some months saving about $1,000, which is used to fund travel and discretionary expenses. The client is not currently experiencing financial strain and manages spending to maintain lifestyle and family support.",
+    "debtManagement": "No debts or loans were mentioned during the meeting, indicating the client is debt-free.",
+    "investment": "The client has an investment account with BT Panorama valued at approximately $3,500, which is planned to be closed with funds transferred to a cash account. The client’s son-in-law manages related financial matters, including netting commissions to the client. The client’s investment portfolio has recently outperformed the Morningstar Moderate Index by 0.81% over the past 12 months, achieving an 8.47% return, which supports ongoing lifestyle goals.",
+    "superannuation": "The client’s superannuation or pension account performance is strong, with an 8.47% return over the last 12 months, outperforming the benchmark Morningstar Moderate Index return of 7.67%. This performance provides confidence in sustaining current income drawdowns and lifestyle.",
+    "retirementPlanning": "The retirement strategy focuses on sustaining the client’s current lifestyle with existing funds and income sources. Projections indicate a potential shortfall starting around age 94 if current spending continues, but this is mitigated by the significant equity in the client’s property. Plans include possible future involvement of children in decision-making, especially regarding aged care and estate matters. The client intends to continue enjoying travel and social activities while health permits, with an understanding that these may reduce over time. There is confidence that property equity and pension income will provide sufficient resources for future needs, including aged care costs.",
+    "insurance": "No insurance policies were discussed or reviewed during the meeting.",
+    "estatePlanning": "The client has an enduring power of attorney appointed to their three children, with all money left equally to them as executors. The client holds a hard copy of the will and power of attorney documents, with plans to provide copies for record-keeping. The estate plan is straightforward, with no provisions for grandchildren, reflecting the client’s preference to let parents manage their children’s inheritance. The client expressed satisfaction with the current arrangements and the financial independence of their children.",
+    "centrelink": "The client receives the Age Pension, approximately $945 per fortnight, with some fluctuations. Asset reporting for Centrelink includes the primary residence valued at about $1.41 million, vehicle valued at $10,000, and contents valued at $5,000. The client is aware of Centrelink asset limits and maintains values accordingly.",
+    "ageCare": "Aged care considerations were discussed, with recognition that the client has sufficient property equity to cover potential aged care costs. The client and advisor plan to revisit these matters in the future, involving family as needed. There is no immediate need for aged care, and the client wishes to maintain independence as long as possible.",
+    "initialSoaFee": "No updates for this section.",
+    "ongoingAdviceFee": "No updates for this section.",
+    "riskProfileVariant": "fact_find_completed",
+    "riskApproach": "Balanced",
+    "understandingOfAdvice": "The client demonstrated clear understanding of the advice provided, including financial projections, investment performance, and estate planning. The client agreed to the next steps, such as closing the investment account and transferring funds, and acknowledged the importance of involving family in future decisions. There was no indication of disagreement or confusion regarding the advice or service arrangements."
+}

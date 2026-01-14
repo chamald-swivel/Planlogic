@@ -1,11 +1,11 @@
-"use client"
+"use client";
 
-import { MsalProvider as MsalReactProvider } from "@azure/msal-react"
-import { msalInstance } from "@/lib/auth/msal-config"
-import type { ReactNode } from "react"
+import { MsalProvider as MsalReactProvider } from "@azure/msal-react";
+import { msalInstance } from "@/lib/auth/msal-config";
+import type { ReactNode } from "react";
 
 interface MsalProviderProps {
-  children: ReactNode
+  children: ReactNode;
 }
 
 /**
@@ -13,5 +13,7 @@ interface MsalProviderProps {
  * Wraps the application with Microsoft Authentication Library context
  */
 export default function MsalProvider({ children }: MsalProviderProps) {
-  return <MsalReactProvider instance={msalInstance}>{children}</MsalReactProvider>
+  return (
+    <MsalReactProvider instance={msalInstance}>{children}</MsalReactProvider>
+  );
 }
